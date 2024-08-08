@@ -99,16 +99,10 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 - **Company Layoffs Dashboard:** Developed an interactive dashboard using Tableau, analyzing company layoffs from COVID-19 to present. [Tableau Dashboard](https://public.tableau.com/app/profile/sandeep.kancherla/viz/DVproject_16822858781710/Dashboard1)
 
 
-Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
-
-
 ## 📬 Contact
-### Email
-- [janardhangupthas@gmail.com](mailto:janardhangupthas@gmail.com)
-### Mobile
-- +1 -6027278803
-### LinkedIn
-- [linkedin.com/in/janardhangupthas](https://www.linkedin.com/in/janardhangupthas)
+- 📧 ### Email: [janardhangupthas@gmail.com](mailto:janardhangupthas@gmail.com)
+- 📱 ### Mobile: +1-6027278803
+- 💼 ### LinkedIn: [linkedin.com/in/janardhangupthas](https://linkedin.com/in/janardhangupthas)
 
 Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
 
