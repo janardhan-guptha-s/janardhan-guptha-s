@@ -32,36 +32,36 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 ## 🔧 Skills
 
 ### Languages
-- Python
-- R
-- SQL
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 ### Frameworks & Libraries
-- NumPy
-- Pandas
-- Matplotlib
-- SciPy
-- ggplot2
+- ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=Matplotlib&logoColor=white)
+- ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
+- ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat&logo=R&logoColor=white)
 
 ### Visualization Tools
-- Tableau
-- Power BI
-- Microsoft Excel
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=Power-BI&logoColor=white)
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 
 ### Cloud Platforms
-- AWS
-- Azure
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white)
 
 ### ETL & Data Integration
-- Databricks
-- Snowflake
-- AWS Glue
-- Talend
-- Informatica
+- ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
+- ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
+- ![AWS Glue](https://img.shields.io/badge/-AWS_Glue-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)
+- ![Talend](https://img.shields.io/badge/-Talend-3776AB?style=flat&logo=Talend&logoColor=white)
+- ![Informatica](https://img.shields.io/badge/-Informatica-FF6D00?style=flat&logo=Informatica&logoColor=white)
 
 ### Databases
-- MySQL
-- SQL Server
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 
 ### Other Skills
 - Data Cleaning
@@ -92,3 +92,4 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 - **Company Layoffs Dashboard:** Developed an interactive dashboard using Tableau, analyzing company layoffs from COVID-19 to present. [Tableau Dashboard](https://public.tableau.com/app/profile/sandeep.kancherla/viz/DVproject_16822858781710/Dashboard1)
 
 Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
+
