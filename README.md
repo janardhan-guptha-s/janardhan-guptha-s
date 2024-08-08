@@ -100,9 +100,9 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 
 
 ## 📬 Contact
-- 📧 ### Email: [janardhangupthas@gmail.com](mailto:janardhangupthas@gmail.com)
-- 📱 ### Mobile: +1-6027278803
-- 💼 ### LinkedIn: [linkedin.com/in/janardhangupthas](https://linkedin.com/in/janardhangupthas)
+- 📧 Email: [janardhangupthas@gmail.com](mailto:janardhangupthas@gmail.com)
+- 📱 Mobile: +1-6027278803
+- 💼 LinkedIn: [linkedin.com/in/janardhangupthas](https://linkedin.com/in/janardhangupthas)
 
 Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
 
