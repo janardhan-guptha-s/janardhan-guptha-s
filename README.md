@@ -74,13 +74,13 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 - Machine Learning
 
 ### AWS Services
-- S3
-- Glue
-- Redshift
-- RDS
-- Kinesis
-- Quick Sight
-- Athena
+- ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+- ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4AFC?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+- ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+- ![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-FF9900?style=for-the-badge&logo=amazon-kinesis&logoColor=white)
+- ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-3673A5?style=for-the-badge&logo=amazon-quicksight&logoColor=white)
+- ![AWS Athena](https://img.shields.io/badge/AWS%20Athena-292A36?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Operating Systems
 - Windows
