@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 
 ### Frameworks & Libraries
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
