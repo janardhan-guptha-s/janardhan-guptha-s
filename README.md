@@ -63,15 +63,8 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 ### Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 - ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
-
-### Other Skills
-- Data Cleaning
-- Data Wrangling
-- Data Acquisition
-- Data Validation
-- Predictive Modeling
-- Data Visualization
-- Machine Learning
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AWS Services
 - ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
@@ -82,15 +75,44 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 - ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-3673A5?style=for-the-badge&logo=amazon-quicksight&logoColor=white)
 - ![AWS Athena](https://img.shields.io/badge/AWS%20Athena-292A36?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Other Skills:
+- ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6DB33F?style=for-the-badge&logo=data-cleaning&logoColor=white)
+- ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-1F8ACB?style=for-the-badge&logo=data-wrangling&logoColor=white)
+- ![Data Acquisition](https://img.shields.io/badge/Data%20Acquisition-FC4C02?style=for-the-badge&logo=data-acquisition&logoColor=white)
+- ![Data Validation](https://img.shields.io/badge/Data%20Validation-FFD700?style=for-the-badge&logo=data-validation&logoColor=black)
+- ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-FF5733?style=for-the-badge&logo=predictive-modeling&logoColor=white)
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge&logo=data-visualization&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=machine-learning&logoColor=white)
+
 ### Operating Systems
 - Windows
 - Linux
+  
+## 🏅 Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Developer - Associate**
 
 ## 📂 Projects
 
 - **Formula1 Racing Data Analysis:** Built a scalable data pipeline and conducted in-depth analysis using Azure Databricks, Delta Lake, Unity Catalog, Azure Data Factory, and Power BI. [GitHub](https://github.com/janardhan-guptha-s/Formula1-Racing-Data-Analysis)
 - **End-to-End E-commerce Data Pipeline and Analysis:** Designed and implemented a comprehensive data pipeline using AWS S3, AWS Glue, Snowflake, and AWS Quick Sight, enabling advanced analytics and reporting.
 - **Company Layoffs Dashboard:** Developed an interactive dashboard using Tableau, analyzing company layoffs from COVID-19 to present. [Tableau Dashboard](https://public.tableau.com/app/profile/sandeep.kancherla/viz/DVproject_16822858781710/Dashboard1)
+
+## 📬 Contact
+
+### Email
+- [janardhangupthas@gmail.com](mailto:janardhangupthas@gmail.com)
+
+### Mobile
+- +1 -6027278803
+
+### LinkedIn
+- [linkedin.com/in/janardhan-guptha-s](https://www.linkedin.com/in/janardhan-guptha-s)
+
+### GitHub
+- [github.com/janardhan-guptha-s](https://github.com/janardhan-guptha-s)
+
+Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
 
 Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
 
