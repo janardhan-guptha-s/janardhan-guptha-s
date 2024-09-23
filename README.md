@@ -96,7 +96,7 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 
 - **Formula1 Racing Data Analysis:** Built a scalable data pipeline and conducted in-depth analysis using Azure Databricks, Delta Lake, Unity Catalog, Azure Data Factory, and Power BI. [GitHub](https://github.com/janardhan-guptha-s/Formula1-Racing-Data-Analysis)
 - **End-to-End E-commerce Data Pipeline and Analysis:** Designed and implemented a comprehensive data pipeline using AWS S3, AWS Glue, Snowflake, and AWS Quick Sight, enabling advanced analytics and reporting.
-- **Company Layoffs Dashboard:** Developed an interactive dashboard using Tableau, analyzing company layoffs from COVID-19 to present. [Tableau Dashboard](https://public.tableau.com/app/profile/sandeep.kancherla/viz/DVproject_16822858781710/Dashboard1)
+- **Company Layoffs Dashboard:** Developed an interactive dashboard using Tableau, analyzing company layoffs from COVID-19 to present.
 
 
 ## 📬 Contact
