@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 **Data Analyst**
 - 🚀 Employed advanced statistical analysis and data modeling techniques, improving forecasting accuracy by 15%.
 - 📊 Developed and maintained Power BI and Tableau dashboards, centralizing reporting for 50+ stakeholders.
-- 🤝 Collaborated with cross-functional teams to translate business needs into technical solutions, utilizing Agile methodologies.
-- 📈 Produced detailed reports on financial performance, contributing to a 25% increase in revenue growth.
 
 ## 🎓 Education
 
