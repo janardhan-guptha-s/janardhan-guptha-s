@@ -3,13 +3,6 @@ Data Analyst | Data Engineer | Cloud Engineer
 
 Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer who thrives on interpreting complex data sets, creating insightful visualizations, and building scalable data solutions. With a strong background in data analysis, statistical modeling, and cloud technologies, I excel at developing efficient ETL workflows, optimizing data pipelines, and driving data-driven decision-making.
 
-## 🛠️ Experience
-
-### BlackRock, Seattle (Aug 2023 – Present)
-**Data Analyst**
-- 🚀 Employed advanced statistical analysis and data modeling techniques, improving forecasting accuracy by 15%.
-- 📊 Developed and maintained Power BI and Tableau dashboards, centralizing reporting for 50+ stakeholders.
-
 ## 🎓 Education
 
 ### Arizona State University
@@ -88,12 +81,6 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 - **Formula1 Racing Data Analysis:** Built a scalable data pipeline and conducted in-depth analysis using Azure Databricks, Delta Lake, Unity Catalog, Azure Data Factory, and Power BI. [GitHub](https://github.com/janardhan-guptha-s/Formula1-Racing-Data-Analysis)
 - **End-to-End E-commerce Data Pipeline and Analysis:** Designed and implemented a comprehensive data pipeline using AWS S3, AWS Glue, Snowflake, and AWS Quick Sight, enabling advanced analytics and reporting.
 - **Company Layoffs Dashboard:** Developed an interactive dashboard using Tableau, analyzing company layoffs from COVID-19 to present.
-
-
-## 📬 Contact
-- 📧 Email: [janardhangupthas@gmail.com](mailto:janardhangupthas@gmail.com)
-- 📱 Mobile: +1-6027278803
-- 💼 LinkedIn: [linkedin.com/in/janardhangupthas](https://linkedin.com/in/janardhangupthas)
 
 Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities for collaboration!
 
