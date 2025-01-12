@@ -1,6 +1,6 @@
 # Janardhan Guptha S
 
-Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer who thrives on interpreting complex data sets, creating insightful visualizations, and building scalable data solutions. With a strong background in data analysis, statistical modeling, and cloud technologies, I excel at developing efficient ETL workflows, optimizing data pipelines, and driving data-driven decision-making.
+Welcome to my GitHub profile!
 
 ## 🎓 Education
 
